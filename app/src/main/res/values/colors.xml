@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLightGreen">#008577</color>
+    <color name="colorPrimaryDarkGreen">#00574B</color>
+    <color name="colorAccentPink">#D81B60</color>
+
+    <color name="colorYello">#8A7C05</color>
+    <color name="colorAccent">#5A3704</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryLight">#64b5f6</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryDarker">#235A9C</color>
+    <color name="colorTextPrimary">@android:color/white</color>
+    <color name="colorScreenBackground">#fff3e0</color>
+    <color name="colorTextHint">#E0E0E0</color>
+
+</resources>
